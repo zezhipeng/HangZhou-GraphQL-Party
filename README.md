@@ -36,4 +36,4 @@ Topics:
 
 欢迎杭州周边的 GraphQL 开发者加入我们的微信群参与讨论（群已满，请扫描二维码添加 Scott 微信拉你进群，请注明：姓名-公司-加 GraphQL 群）
 
-![](./qrcode.jpeg)
+<img src='./qrcode.jpeg' width='250px' height='320px' />
